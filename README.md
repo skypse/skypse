@@ -1,7 +1,7 @@
 ### Olá!! sou o Gabriel do Amaral 👋
 
 - 🔭 Atualmente não trabalho na área
-- 🌱 Estudando: Python,CSS3,HTML5,JavaScript 
+- 🌱 Estudando: Python,CSS3,HTML5,JavaScript e C#
 - 📫 Para contato no email: gabrieldoamaral.alves12@gmail.com
 
 <div align="center">
