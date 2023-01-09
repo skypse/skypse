@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/skypse/2ebef65171ef3d5989857016fbc3d045/raw/4d795387b32fe238159a96248b9c551f662a37d2/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/skypse/2ebef65171ef3d5989857016fbc3d045/raw/0ae20725d9d2c1bef4c60f0fa7ad3c6e44432688/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel do Amaral</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skypse&color=blueviolet" alt="Profile views" /> </p>
 
