@@ -8,7 +8,7 @@
 
 - 💬 Estudando: HTML, CSS, JavaScript, MySQL, C# e .NET
 
-- 🧐 Pode me chamar de: skypse_
+- 🧐 Pode me chamar de: Amaral
 
 <br><br>
 
