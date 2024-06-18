@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente não trabalho na área
 
-- 💬 Estudando: HTML, CSS, JavaScript, MySQL, C# e .NET
+- 💬 Estudando: HTML, CSS, JavaScript, MySQL, C# e ASP.NET
 
 - 🧐 Pode me chamar de: Amaral
 
