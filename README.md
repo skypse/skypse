@@ -28,6 +28,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=skypse&theme=modern-lilac2&locale=en&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skypse&bg_color=0d1117&color=5D417A&line=a30085&point=fe7cd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skypse&bg_color=0d1117&color=5D417A&line=2D0C50&point=593381&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/skypse?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=purple) 
