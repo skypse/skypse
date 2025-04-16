@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Eai+beleza?;Meu+nome+é+Gabriel+Do+Amaral!;Tenho+19+anos!;Seja Bem-Vindo(a)+ao+meu Perfil!&font=Fira%20Code&center=true&width=780&height=70&color=6F5D82&size=40px&duration=3000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Eai+beleza?;Meu+nome+é+Gabriel+Do+Amaral!;Tenho+19+anos!;Seja Bem-Vindo(a)+ao+meu Perfil!&font=Fira%20Code&center=true&width=780&height=70&color=6F5D82&size=40px&duration=3000&pause=1000" alt="">
 </p>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel do Amaral!</h1>
