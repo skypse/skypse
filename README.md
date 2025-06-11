@@ -9,13 +9,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel do Amaral!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skypse&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Junior focado em: SQL, .NET Core, ASP.NET e Python
+- 🔥 Junior focused on: SQL, .NET Core, ASP.NET, and Java
 
-- 🔭 Atualmente não trabalho na área
+- 🔭 Working on CRM operations at match.mt
 
-- 💬 Estudando: .NET, ASP.NET, Rest API's, MVC e React.js
+- 💬 Studying: C# and Java
 
-- 🧐 Pode me chamar de: Amaral
+- 🧐 You can call me: Amaral
 
 
 ## Contato
