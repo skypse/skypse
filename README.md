@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=6F5D82&center=true&width=780&height=70&lines=Eai+beleza%3F;Meu+nome+%C3%A9+Gabriel+do+Amaral!;Tenho+19+anos!;Seja+Bem-Vindo(a)+ao+meu+Perfil!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6F5D82&center=true&width=780&height=70&lines=Hey%2C+what's+up%3F;I'm+Gabriel+do+Amaral!;I'm+19%2C+and+welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel do Amaral!</h1>
